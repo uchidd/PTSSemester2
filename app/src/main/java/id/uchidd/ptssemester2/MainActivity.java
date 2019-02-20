@@ -17,6 +17,8 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 
+    //UPDATE TERBARU
+
     @BindView(R.id.btnToast)
     Button btnToast;
     @BindView(R.id.btnSnackbar)

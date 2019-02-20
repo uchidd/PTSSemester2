@@ -55,5 +55,4 @@ public class AdapterListRecyclerView extends RecyclerView.Adapter<AdapterListRec
             ivImage = (ImageView)itemView.findViewById(R.id.ivRecyclerView);
         }
     }
-
 }
